@@ -2,9 +2,9 @@ import { useState } from 'react'
 import { useReveal } from '../hooks/useReveal'
 
 const methods = [
-  { icon: '📞', label: 'Phone / WhatsApp', val: '+251 900 000 000', href: 'tel:+251900000000' },
-  { icon: '✉️', label: 'Email', val: 'support@ablontech.et', href: 'mailto:support@ablontech.et' },
-  { icon: '📍', label: 'Location', val: 'Bole, Addis Ababa, Ethiopia', href: '#' },
+  { icon: '📞', label: 'Phone / WhatsApp', val: '+251 945428051', href: 'tel:+251945428051' },
+  { icon: '✉️', label: 'Email', val: 'abelsolomon2821@gmail.com', href: 'mailto:abelsolomon2821@gmail.com' },
+  { icon: '📍', label: 'Location', val: ' Addis Ababa, Ethiopia', href: '#' },
   { icon: '🕐', label: 'Working Hours', val: 'Mon–Sat, 8:00 AM – 7:00 PM', href: '#' },
 ]
 
